@@ -1,2 +1,1 @@
-# SHHG-image-analysis
-# First load SHHG results
+#Beam NF image extract.py is used to extract the information of NF field. This is batch handler, address of folder, key in image type and #blank image. The result(Excel file) will save in the same folder. This is the first step for energy calibration。
