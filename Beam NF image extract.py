@@ -247,7 +247,7 @@ if __name__=="__main__":
             Effective_pixel_number_excel.append(0)
             Std_excel.append(0)
             Fwhm_excel.append(0)
-            Remarks_excel.append("Error")
+            Remarks_excel.append("Empty")
      
     WRITE_EXCEL(dirs, file_name, Name_excel, Mean_excel, Sum_pixel_value_excel, Effective_pixel_number_excel, Std_excel, Fwhm_excel,Remarks_excel)
    
